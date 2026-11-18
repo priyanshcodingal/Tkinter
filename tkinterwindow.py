@@ -1,0 +1,8 @@
+from tkinter import *
+
+window = Tk()
+
+window.title("😘🤔☠🎃🎃💀💀🥱😎🗾✔✔🐱‍👓🐱‍👓🐱‍👓🐱‍👓✨🌹🐱‍🐉🐱‍💻👏🤷‍♂️🤦‍♂️")
+window.geometry("400x400")
+
+window.mainloop()
